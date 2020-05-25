@@ -35,6 +35,7 @@
       "dont-discover": [
       ],
       "providers": [
+        "JoseChan\\SendCloud\\Sdk\\Providers\\SendCloudSdkProvider"
       ]
     }
   },
